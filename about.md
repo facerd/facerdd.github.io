@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+君若有需，当取自需；君若无需，亦知其需！
